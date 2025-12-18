@@ -55,5 +55,5 @@
 <p align="center">
 <a href="https://tiktok.com/@lucapagaaa"><img src="https://img.shields.io/badge/-@lucapaga-000000?style=flat&logo=TikTok&logoColor=white"/></a>
 <a href="https://discord.com/users/1008822333366091839"><img src="https://img.shields.io/badge/-@lucapaga-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
-<a href="mailto:info@lucapaga.xyz"><img src="https://img.shields.io/badge/-info@lucapaga.xyz-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:contact@lucapaga.xyz"><img src="https://img.shields.io/badge/contact@lucapaga.xyz-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
